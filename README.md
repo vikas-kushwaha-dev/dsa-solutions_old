@@ -45,4 +45,8 @@ This repository contains the solution of dsa problems
 |  |
 | ------- |
 | [leetcode/medium/0075-sort-colors](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/medium/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [leetcode/easy/0175-combine-two-tables](https://github.com/vikas-kushwaha-dev/dsa-solutions/tree/master/leetcode/easy/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
